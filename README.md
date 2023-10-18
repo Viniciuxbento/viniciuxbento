@@ -21,13 +21,7 @@ Todas as tecnologias com as quais trabalho e entendo em um nível avançado! ✅
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-## Now, a few skills I'm dedicating my time to delve into and learn a bit more, intermediate knowledge.🔥<br>
-Agora, algumas habilidades em que estou depositando meu tempo para me aprofundar e aprender um pouco mais, conhecimento médio!✅
 
-<div style="display: inline_block">
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   
 </div><br/>
 

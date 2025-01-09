@@ -6,11 +6,6 @@
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=Viniciuxbento&show_icons=true&theme=dracula&count_private=true)
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuxbento&theme=dracula)
 
-
-## All the technologies that I work with and understand at an advanced level! 🔥<br>
-Todas as tecnologias com as quais trabalho e entendo em um nível avançado! ✅<br>
-
-
 </div><br/>
 
 
